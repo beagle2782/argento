@@ -22,7 +22,7 @@ Responsable: Ignacio Manríquez\
 Seguimiento de presupuestos\
 Responsable: Ignacio Manríquez\
 CRUD (Usuario, Administrador)\
-Responsable: Ignacio Manríquez\
+Responsable: Ignacio Manríquez
 
 # Descripción
 Argento es una aplicación gráfica en la red que permite crear fácilmente proyectos de presupuestos con gestión en colaboración y con utilidades que permiten administrar y estudiar éstas obras.
