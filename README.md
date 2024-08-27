@@ -14,4 +14,4 @@ El objetivo del programa es manipular estos datos, gestionarlos, sacar cálculos
 
 # Vínculo a diseño Figma
 
-https://www.figma.com/design/tG3I72qEiit6nHX8HIkdoc/argento?node-id=0-1&t=vFs20xgnKU8jb4f0-0
+https://www.figma.com/design/oXF7ZiLWaRDlBkw1W5jSH4/Untitled?node-id=0-1&t=hTIhKc6E46I66f2W-1
