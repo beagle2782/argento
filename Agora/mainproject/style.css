@@ -1,0 +1,178 @@
+.doc-bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #ededed;
+    width: 1280px;
+    height: 832px;
+}
+.statusbar-bg {
+    position: absolute;
+    top: 796px;
+    left: 0px;
+    background-color: #fff;
+    width: 1280px;
+    height: 36px;
+}
+.doc-workspace-bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+    border-radius: 30px;
+    background-color: #fff;
+    width: 1209px;
+    height: 586px;
+}
+.doc-window {
+    position: absolute;
+    top: 170px;
+    left: 36px;
+    width: 1209px;
+    height: 586px;
+}
+.header-bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+    background-color: #fff;
+    width: 1280px;
+    height: 139px;
+}
+.toolbar-bg {
+    position: absolute;
+    top: 76px;
+    left: 24px;
+    border-radius: 30px;
+    background-color: #edf2fa;
+    width: 1233px;
+    height: 42px;
+}
+.toolbar-ic-icon {
+    position: absolute;
+    top: 84px;
+    left: 46px;
+    width: 1197px;
+    height: 27px;
+}
+.file {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.edit {
+    position: absolute;
+    top: 0px;
+    left: 45px;
+}
+.insert {
+    position: absolute;
+    top: 0px;
+    left: 93px;
+}
+.view {
+    position: absolute;
+    top: 0px;
+    left: 156px;
+}
+.summaries {
+    position: absolute;
+    top: 0px;
+    left: 213px;
+}
+.calculate {
+    position: absolute;
+    top: 0px;
+    left: 316px;
+}
+.tools {
+    position: absolute;
+    top: 0px;
+    left: 406px;
+}
+.help {
+    position: absolute;
+    top: 0px;
+    left: 466px;
+}
+.menubar {
+    position: absolute;
+    top: 46px;
+    left: 77px;
+    width: 501px;
+    height: 19px;
+}
+.d-avatars-21 {
+    position: absolute;
+    top: 0px;
+    left: 159px;
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+}
+.ionpeople-sharp-icon {
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.material-symbolscomment-outli-icon {
+    position: absolute;
+    top: 8px;
+    left: 106px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.mditimeline-clock-outline-icon {
+    position: absolute;
+    top: 8px;
+    left: 53px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.header-topbar {
+    position: absolute;
+    top: 17px;
+    left: 1053px;
+    width: 207px;
+    height: 48px;
+}
+.title {
+    position: absolute;
+    top: 16px;
+    left: 77px;
+}
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 139px;
+}
+.layout {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 832px;
+}
+.main {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 832px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #000;
+    font-family: Inter;
+}
+
