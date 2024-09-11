@@ -41,4 +41,4 @@ El objetivo del programa es manipular estos datos, gestionarlos, sacar cálculos
 
 # Vínculo a diseño Figma
 
-https://www.figma.com/design/oXF7ZiLWaRDlBkw1W5jSH4/Untitled?node-id=0-1&t=hTIhKc6E46I66f2W-1
+https://www.figma.com/design/2U3hEF78BquCq1X9dRPn0l/agora-mockup?node-id=0-1&t=WRAEWuBryYLP2YT8-1
