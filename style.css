@@ -4,8 +4,9 @@
 }
 .index {
   background: #ededed;
-  height: 832px;
-  position: relative;
+  overflow:hidden;
+  width:100%;
+  height:100%;
 }
 .statusbar-bg {
   background: #ffffff;
@@ -24,11 +25,6 @@
   gap: 8px;
   align-items: center;
   justify-content: flex-start;
-  width: 100%;
-  position: absolute;
-  right: 0%;
-  left: 0%;
-  top: 0px;
 }
 .menubar-frame {
   padding: 0px 32px 0px 32px;
