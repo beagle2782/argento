@@ -1,0 +1,492 @@
+.doc-bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #ededed;
+    width: 1280px;
+    height: 832px;
+}
+.statusbar-bg {
+    position: absolute;
+    top: 796px;
+    left: 0px;
+    background-color: #fff;
+    width: 1280px;
+    height: 36px;
+}
+.doc-workspace-bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+    border-radius: 30px;
+    background-color: #fff;
+    width: 996px;
+    height: 586px;
+}
+.material-symbolsclose-icon {
+    position: absolute;
+    top: 13px;
+    left: 958px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.titles-bg {
+    position: absolute;
+    top: 63px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+    border-radius: 15px;
+    background-color: #ededed;
+    width: 63px;
+    height: 948px;
+    transform:  rotate(-90deg);
+    transform-origin: 0 0;
+}
+.mingcutedirectory-fill-icon {
+    position: absolute;
+    top: 19px;
+    left: 23px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.titles {
+    position: absolute;
+    top: 22px;
+    left: 65px;
+}
+.titles-showcase {
+    position: absolute;
+    top: 80px;
+    left: 21px;
+    width: 948px;
+    height: 63px;
+}
+.toolbar-bg {
+    position: absolute;
+    top: 0px;
+    left: 461px;
+    border-radius: 30px;
+    background-color: #edf2fa;
+    width: 442px;
+    height: 42px;
+}
+.level-menu-bg {
+    position: absolute;
+    top: 0px;
+    left: 60px;
+    border-radius: 15px;
+    background-color: #fff;
+    border: 1px solid #ededed;
+    box-sizing: border-box;
+    width: 98px;
+    height: 35px;
+}
+.level {
+    position: absolute;
+    top: 8px;
+    left: 0px;
+}
+.mdiarrow-down-drop-icon {
+    position: absolute;
+    top: 6px;
+    left: 132px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.div {
+    position: absolute;
+    top: 9px;
+    left: 122px;
+}
+.level-menu {
+    position: absolute;
+    top: 7px;
+    left: 0px;
+    width: 158px;
+    height: 35px;
+}
+.stage-menu-bg {
+    position: absolute;
+    top: 0px;
+    left: 69px;
+    border-radius: 15px;
+    background-color: #fff;
+    border: 1px solid #ededed;
+    box-sizing: border-box;
+    width: 98px;
+    height: 35px;
+}
+.mdiarrow-down-drop-icon1 {
+    position: absolute;
+    height: 68.57%;
+    width: 14.37%;
+    top: 17.14%;
+    right: 2.99%;
+    bottom: 14.29%;
+    left: 82.63%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.div1 {
+    position: absolute;
+    top: 9px;
+    left: 127px;
+}
+.stage-menu {
+    position: absolute;
+    top: 7px;
+    left: 186px;
+    width: 167px;
+    height: 35px;
+}
+.doc-header-parameters {
+    position: absolute;
+    top: 16px;
+    left: 36px;
+    width: 903px;
+    height: 42px;
+    color: #000;
+}
+.activities-table-icon {
+    position: absolute;
+    top: 182px;
+    left: 526px;
+    width: 432px;
+    height: 365px;
+}
+.scroll-bar {
+    position: absolute;
+    top: 542px;
+    left: 560px;
+    border-radius: 30px;
+    background-color: #a0a0a0;
+    width: 6px;
+    height: 307px;
+    transform:  rotate(-90deg);
+    transform-origin: 0 0;
+}
+.activites-window-icon {
+    position: absolute;
+    top: 182px;
+    left: 526px;
+    border-radius: 10px;
+    width: 432px;
+    height: 365px;
+}
+.items-table-icon {
+    position: absolute;
+    top: 183px;
+    left: 38px;
+    width: 431px;
+    height: 366px;
+}
+.scroll-bar1 {
+    position: absolute;
+    top: 542px;
+    left: 72px;
+    border-radius: 30px;
+    background-color: #a0a0a0;
+    width: 6px;
+    height: 307px;
+    transform:  rotate(-90deg);
+    transform-origin: 0 0;
+}
+.items-window {
+    position: absolute;
+    top: 182px;
+    left: 38px;
+    border-radius: 10px;
+    border: 1px solid #a0a0a0;
+    box-sizing: border-box;
+    width: 431px;
+    height: 365px;
+}
+.doc-window {
+    position: absolute;
+    top: 170px;
+    left: 249px;
+    width: 996px;
+    height: 586px;
+}
+.header-bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+    background-color: #fff;
+    width: 1280px;
+    height: 139px;
+}
+.toolbar-bg1 {
+    position: absolute;
+    top: 76px;
+    left: 224px;
+    border-radius: 30px;
+    background-color: #edf2fa;
+    width: 1033px;
+    height: 42px;
+}
+.toolbar-ic-icon {
+    position: absolute;
+    top: 84px;
+    left: 244px;
+    width: 1001px;
+    height: 27px;
+}
+.file {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.edit {
+    position: absolute;
+    top: 0px;
+    left: 45px;
+}
+.insert {
+    position: absolute;
+    top: 0px;
+    left: 93px;
+}
+.view {
+    position: absolute;
+    top: 0px;
+    left: 156px;
+}
+.summaries {
+    position: absolute;
+    top: 0px;
+    left: 213px;
+}
+.calculate {
+    position: absolute;
+    top: 0px;
+    left: 316px;
+}
+.tools {
+    position: absolute;
+    top: 0px;
+    left: 406px;
+}
+.help {
+    position: absolute;
+    top: 0px;
+    left: 466px;
+}
+.menubar {
+    position: absolute;
+    top: 47px;
+    left: 280px;
+    width: 501px;
+    height: 19px;
+}
+.d-avatars-21 {
+    position: absolute;
+    top: 0px;
+    left: 159px;
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+}
+.ionpeople-sharp-icon {
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+}
+.material-symbolscomment-outli-icon {
+    position: absolute;
+    top: 8px;
+    left: 106px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+}
+.mditimeline-clock-outline-icon {
+    position: absolute;
+    top: 8px;
+    left: 53px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+}
+.header-topbar {
+    position: absolute;
+    top: 17px;
+    left: 1053px;
+    width: 207px;
+    height: 48px;
+}
+.title {
+    position: absolute;
+    top: 17px;
+    left: 280px;
+}
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 139px;
+    color: #000;
+}
+.layout {
+    position: absolute;
+    top: 5px;
+    left: -222px;
+    width: 1280px;
+    height: 832px;
+}
+.titles-menu-back-button {
+    position: absolute;
+    top: 387px;
+    left: 0px;
+    width: 54.6px;
+    height: 59px;
+}
+.titles-menu-bg {
+    position: absolute;
+    height: 100%;
+    width: 85.17%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 14.83%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+}
+.titles-menu-bg-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    transform:  rotate(180deg);
+}
+.stop-button {
+    position: absolute;
+    top: 81.29px;
+    left: 14px;
+    border-radius: 30px;
+    background-color: #448cff;
+    width: 12px;
+    height: 12px;
+}
+.william-wong {
+    position: absolute;
+    top: 79.29px;
+    left: 31px;
+}
+.august-7th-413 {
+    position: absolute;
+    top: 15.29px;
+    left: 14px;
+    font-size: 16px;
+}
+.block-version-2 {
+    position: absolute;
+    height: 15.3%;
+    width: 100%;
+    top: 26.41%;
+    right: 0%;
+    bottom: 58.29%;
+    left: 0%;
+}
+.stop-button1 {
+    position: absolute;
+    top: 69.56px;
+    left: 14px;
+    border-radius: 30px;
+    background-color: #18aa00;
+    width: 12px;
+    height: 12px;
+}
+.john-doe {
+    position: absolute;
+    top: 67.56px;
+    left: 31px;
+    display: inline-block;
+    width: 54px;
+}
+.current-version {
+    position: absolute;
+    top: 33.56px;
+    left: 14px;
+    display: inline-block;
+    width: 89px;
+}
+.august-7th-4131 {
+    position: absolute;
+    top: 12.56px;
+    left: 14px;
+    font-size: 16px;
+    display: inline-block;
+    width: 124px;
+}
+.block-version-1 {
+    position: absolute;
+    height: 15.3%;
+    width: 100%;
+    top: 11.11%;
+    right: 0%;
+    bottom: 73.59%;
+    left: 0%;
+    color: #fff;
+}
+.release-history {
+    position: absolute;
+    top: 13px;
+    left: 14px;
+    font-size: 20px;
+    display: inline-block;
+    width: 157px;
+    height: 20px;
+}
+.title1 {
+    position: absolute;
+    top: 53px;
+    left: 14px;
+    font-size: 16px;
+}
+.history-menu {
+    position: absolute;
+    top: 0px;
+    left: 39px;
+    width: 222px;
+    height: 832px;
+}
+.menu {
+    position: absolute;
+    top: 832px;
+    left: 1280px;
+    width: 261px;
+    height: 832px;
+    transform:  rotate(-180deg);
+    transform-origin: 0 0;
+    font-size: 12px;
+    color: #000;
+}
+.macbook-air-timeline {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 832px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #1e1e1e;
+    font-family: Inter;
+}
+
