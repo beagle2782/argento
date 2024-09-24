@@ -1,0 +1,413 @@
+.doc-bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #ededed;
+    width: 1280px;
+    height: 832px;
+}
+.statusbar-bg {
+    position: absolute;
+    top: 796px;
+    left: 0px;
+    background-color: #fff;
+    width: 1280px;
+    height: 36px;
+}
+.doc-workspace-bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+    border-radius: 30px;
+    background-color: #fff;
+    width: 1209px;
+    height: 586px;
+}
+.material-symbolsclose-icon {
+    position: absolute;
+    top: 13px;
+    left: 1171px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.titles-bg {
+    position: absolute;
+    top: 63px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+    border-radius: 15px;
+    background-color: #ededed;
+    width: 63px;
+    height: 1160px;
+    transform:  rotate(-90deg);
+    transform-origin: 0 0;
+}
+.mingcutedirectory-fill-icon {
+    position: absolute;
+    top: 19px;
+    left: 21px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.titles {
+    position: absolute;
+    top: 22px;
+    left: 64px;
+}
+.titles-showcase {
+    position: absolute;
+    top: 80px;
+    left: 22px;
+    width: 1160px;
+    height: 63px;
+}
+.toolbar-bg {
+    position: absolute;
+    top: 0px;
+    left: 421px;
+    border-radius: 30px;
+    background-color: #edf2fa;
+    width: 690px;
+    height: 42px;
+}
+.level-menu-bg {
+    position: absolute;
+    top: 0px;
+    left: 60px;
+    border-radius: 15px;
+    background-color: #fff;
+    border: 1px solid #ededed;
+    box-sizing: border-box;
+    width: 98px;
+    height: 35px;
+}
+.level {
+    position: absolute;
+    top: 8px;
+    left: 0px;
+}
+.mdiarrow-down-drop-icon {
+    position: absolute;
+    top: 6px;
+    left: 132px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.div {
+    position: absolute;
+    top: 9px;
+    left: 122px;
+}
+.level-menu {
+    position: absolute;
+    top: 3px;
+    left: 0px;
+    width: 158px;
+    height: 35px;
+}
+.stage-menu-bg {
+    position: absolute;
+    top: 0px;
+    left: 69px;
+    border-radius: 15px;
+    background-color: #fff;
+    border: 1px solid #ededed;
+    box-sizing: border-box;
+    width: 98px;
+    height: 35px;
+}
+.mdiarrow-down-drop-icon1 {
+    position: absolute;
+    height: 68.57%;
+    width: 14.37%;
+    top: 17.14%;
+    right: 2.99%;
+    bottom: 14.29%;
+    left: 82.63%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.div1 {
+    position: absolute;
+    top: 9px;
+    left: 127px;
+}
+.stage-menu {
+    position: absolute;
+    top: 3px;
+    left: 186px;
+    width: 167px;
+    height: 35px;
+}
+.doc-header-parameters {
+    position: absolute;
+    top: 16px;
+    left: 41px;
+    width: 1111px;
+    height: 42px;
+    color: #000;
+}
+.activities-table-icon {
+    position: absolute;
+    top: 182px;
+    left: 632px;
+    width: 538px;
+    height: 365px;
+}
+.activites-window {
+    position: absolute;
+    top: 182px;
+    left: 632px;
+    border-radius: 10px;
+    border: 1px solid #a0a0a0;
+    box-sizing: border-box;
+    width: 539px;
+    height: 365px;
+}
+.items-table-icon {
+    position: absolute;
+    top: 182px;
+    left: 44px;
+    width: 532px;
+    height: 366px;
+}
+.items-window {
+    position: absolute;
+    top: 182px;
+    left: 44px;
+    border-radius: 10px;
+    border: 1px solid #a0a0a0;
+    box-sizing: border-box;
+    width: 534px;
+    height: 365px;
+}
+.doc-window {
+    position: absolute;
+    top: 170px;
+    left: 36px;
+    width: 1209px;
+    height: 586px;
+}
+.header-bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+    background-color: #fff;
+    width: 1280px;
+    height: 139px;
+}
+.toolbar-bg1 {
+    position: absolute;
+    top: 76px;
+    left: 24px;
+    border-radius: 30px;
+    background-color: #edf2fa;
+    width: 1233px;
+    height: 42px;
+}
+.toolbar-ic-icon {
+    position: absolute;
+    top: 84px;
+    left: 46px;
+    width: 1197px;
+    height: 27px;
+}
+.file {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.edit {
+    position: absolute;
+    top: 0px;
+    left: 45px;
+}
+.insert {
+    position: absolute;
+    top: 0px;
+    left: 93px;
+}
+.view {
+    position: absolute;
+    top: 0px;
+    left: 156px;
+}
+.summaries {
+    position: absolute;
+    top: 0px;
+    left: 213px;
+}
+.calculate {
+    position: absolute;
+    top: 0px;
+    left: 316px;
+}
+.tools {
+    position: absolute;
+    top: 0px;
+    left: 406px;
+}
+.help {
+    position: absolute;
+    top: 0px;
+    left: 466px;
+}
+.menubar {
+    position: absolute;
+    top: 46px;
+    left: 77px;
+    width: 501px;
+    height: 19px;
+}
+.d-avatars-21 {
+    position: absolute;
+    top: 0px;
+    left: 159px;
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+}
+.ionpeople-sharp-icon {
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+}
+.material-symbolscomment-outli-icon {
+    position: absolute;
+    top: 8px;
+    left: 106px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+}
+.mditimeline-clock-outline-icon {
+    position: absolute;
+    top: 8px;
+    left: 53px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+}
+.header-topbar {
+    position: absolute;
+    top: 17px;
+    left: 1053px;
+    width: 207px;
+    height: 48px;
+}
+.title {
+    position: absolute;
+    top: 16px;
+    left: 77px;
+}
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 139px;
+    color: #000;
+}
+.layout {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 832px;
+}
+.bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    backdrop-filter: blur(4px);
+    background-color: rgba(217, 217, 217, 0.5);
+    width: 1280px;
+    height: 832px;
+}
+.dialog-template-bg {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+    border-radius: 30px;
+    background-color: #fff;
+}
+.dialog-template-pdf {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+    width: 797px;
+    height: 521px;
+    overflow: hidden;
+}
+.material-symbolsclose-icon1 {
+    position: absolute;
+    top: 17px;
+    left: 754px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.import-child {
+    position: absolute;
+    top: 58px;
+    left: 69px;
+    border-radius: 30px;
+    background-color: #edf2fa;
+    width: 652px;
+    height: 396px;
+}
+.material-symbolsupload-icon {
+    position: absolute;
+    top: 270px;
+    left: 369px;
+    width: 64px;
+    height: 64px;
+    overflow: hidden;
+}
+.file-here-or {
+    color: #a9c3ed;
+}
+.drop-file-here-container {
+    position: absolute;
+    top: 194px;
+    left: 171px;
+    letter-spacing: -0.02em;
+    line-height: 120%;
+    font-weight: 600;
+}
+.import {
+    position: absolute;
+    top: 161px;
+    left: 239px;
+    width: 797px;
+    height: 521px;
+    font-size: 24px;
+    color: #448cff;
+}
+.macbook-air-open {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 832px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #1e1e1e;
+    font-family: Inter;
+}
+
