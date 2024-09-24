@@ -1,0 +1,333 @@
+.right-side-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f8ff;
+    width: 853px;
+    height: 832px;
+}
+.right-side1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 853px;
+    height: 832px;
+}
+.login-to-your {
+    width: 477px;
+    position: relative;
+    line-height: 24px;
+    display: inline-block;
+    height: 38px;
+    flex-shrink: 0;
+}
+.welcome-back-select {
+    width: 409px;
+    position: relative;
+    font-size: 20px;
+    line-height: 24px;
+    color: #71717a;
+    display: inline-block;
+    height: 76px;
+    flex-shrink: 0;
+}
+.login-to-your-account-parent {
+    width: 477px;
+    height: 68px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.frame-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.frame-child {
+    width: 121px;
+    position: relative;
+    border-top: 1px solid #71717a;
+    box-sizing: border-box;
+    height: 1px;
+}
+.or-continue-with {
+    width: 213px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 500;
+    display: inline-block;
+    height: 25px;
+    flex-shrink: 0;
+}
+.line-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 15px;
+    color: #71717a;
+}
+.frame-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 25px;
+}
+.frame-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.envelope-icon {
+    width: 30px;
+    position: relative;
+    height: 30px;
+    object-fit: contain;
+}
+.email {
+    position: relative;
+    line-height: 24px;
+}
+.envelope-parent {
+    width: 453px;
+    border-radius: 10px;
+    background-color: rgba(89, 156, 218, 0.06);
+    border: 2px solid #599cda;
+    box-sizing: border-box;
+    height: 64px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+    gap: 10px;
+}
+.shield-slash-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+.password {
+    position: absolute;
+    top: 3px;
+    left: 40px;
+    line-height: 24px;
+}
+.shield-slash-parent {
+    width: 123px;
+    position: relative;
+    height: 30px;
+}
+.eye-slash-icon {
+    width: 30px;
+    position: relative;
+    height: 30px;
+}
+.group-parent {
+    width: 453px;
+    border-radius: 10px;
+    background-color: rgba(89, 156, 218, 0.06);
+    border: 2px solid #599cda;
+    box-sizing: border-box;
+    height: 64px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+    gap: 270px;
+}
+.frame-parent2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.check-square-icon {
+    width: 20px;
+    position: relative;
+    height: 20px;
+}
+.remember-me {
+    width: 135px;
+    position: relative;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    height: 28px;
+    flex-shrink: 0;
+}
+.check-square-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.forgot-password {
+    width: 215px;
+    position: relative;
+    line-height: 24px;
+    font-weight: 600;
+    color: #599cda;
+    display: flex;
+    align-items: center;
+    height: 28px;
+    flex-shrink: 0;
+    cursor: pointer;
+}
+.frame-parent3 {
+    width: 451px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 138px;
+}
+.frame-wrapper1 {
+    width: 453px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 16px;
+    color: #71717a;
+    font-family: Montserrat;
+}
+.frame-parent1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.log-in-wrapper {
+    width: 453px;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #599cda, #2f5374);
+    height: 64px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-size: 20px;
+    color: #fff;
+}
+.frame-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 25px;
+    font-size: 18px;
+    color: rgba(54, 54, 54, 0.2);
+    font-family: Inter;
+}
+.frame-parent {
+    position: absolute;
+    top: calc(50% - 204.5px);
+    left: calc(50% - 206.5px);
+    width: 422px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 25px;
+    font-size: 40px;
+}
+.ask-your-system {
+    position: absolute;
+    top: 648px;
+    left: 397px;
+    line-height: 24px;
+    color: #767676;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 271px;
+    height: 23px;
+}
+.dont-have-an {
+    position: absolute;
+    top: 647px;
+    left: 211px;
+    line-height: 24px;
+    color: #71717a;
+    display: inline-block;
+    width: 194px;
+    height: 24px;
+}
+.span {
+    font-weight: 600;
+}
+.login-as-administrator-container1 {
+    width: 100%;
+}
+.login-as-administrator-container {
+    position: absolute;
+    top: 671px;
+    left: 329px;
+    line-height: 24px;
+    color: #599cda;
+    display: flex;
+    align-items: center;
+    width: 196px;
+    height: 26px;
+    cursor: pointer;
+}
+.right-side {
+    position: absolute;
+    top: 0px;
+    left: 427px;
+    width: 853px;
+    height: 832px;
+}
+.left-side1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(128, 152, 249, 0.1);
+    width: 427px;
+    height: 832px;
+}
+.left-side {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    border: 1px solid rgba(45, 49, 166, 0.5);
+    box-sizing: border-box;
+    width: 427px;
+    height: 832px;
+}
+.login {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 832px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #09090b;
+    font-family: Montserrat;
+}
+
